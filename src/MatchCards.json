@@ -1,62 +1,62 @@
 [
     {
       "id": 1,
-      "image": "/clickygame/images/kingpin.png",
+      "image": "/ClickyGame/images/kingpin.png",
       "clicked": false
     },
     {
     "id": 2,
-    "image": "/clickygame/images/greengoblin.jpg",
+    "image": "/ClickyGame/images/greengoblin.jpg",
     "clicked": false
     },
     {
     "id": 3,
-    "image": "/clickygame/images/vulture.png",
+    "image": "/ClickyGame/images/vulture.png",
     "clicked": false
     },
     {
     "id": 4,
-    "image": "/clickygame/images/rhino.jpg",
+    "image": "/ClickyGame/images/rhino.jpg",
     "clicked": false
     },
     {
     "id": 5,
-    "image": "/clickygame/images/venom.png",
+    "image": "/ClickyGame/images/venom.png",
     "clicked": false
     },
     {
     "id": 6,
-    "image": "/clickygame/images/carnage.png",
+    "image": "/ClickyGame/images/carnage.png",
     "clicked": false
     },
     {
     "id": 7,
-    "image": "/clickygame/images/lizard.png",
+    "image": "/ClickyGame/images/lizard.png",
     "clicked": false
     },
     {
     "id": 8,
-    "image": "/clickygame/images/scorpion.png",
+    "image": "/ClickyGame/images/scorpion.png",
     "clicked": false
     },
     {
     "id": 9,
-    "image": "/clickygame/images/shocker.jpg",
+    "image": "/ClickyGame/images/shocker.jpg",
     "clicked": false
     },
     {
     "id": 10,
-    "image": "/clickygame/images/blackcat.png",
+    "image": "/ClickyGame/images/blackcat.png",
     "clicked": false
     },
     {
     "id": 11,
-    "image": "/clickygame/images/kraven.jpg",
+    "image": "/ClickyGame/images/kraven.jpg",
     "clicked": false
     },
     {
     "id": 12,
-    "image": "/clickygame/images/docock.png",
+    "image": "/ClickyGame/images/docock.png",
     "clicked": false
     }
   ]
