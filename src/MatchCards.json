@@ -1,12 +1,12 @@
 [
     {
       "id": 1,
-      "image": "/ClickyGame/images/kingpin.png",
+      "image": "/ClickyGame/images/Kingpin.png",
       "clicked": false
     },
     {
     "id": 2,
-    "image": "/ClickyGame/images/greengoblin.jpg",
+    "image": "/ClickyGame/images/Greengoblin.jpg",
     "clicked": false
     },
     {
